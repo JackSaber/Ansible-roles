@@ -66,8 +66,6 @@ filebeat_setup: false
 
 None
 
-## github地址
-https://github.com/lework/Ansible-roles/tree/master/filebeat
 
 ## Example Playbook
 
